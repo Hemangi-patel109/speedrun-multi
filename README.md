@@ -1,1 +1,1 @@
-# speedrun-multi
+# speedrun-multisig wallet
